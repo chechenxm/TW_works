@@ -1,0 +1,24 @@
+#completion .row .col-md-4 .col-md-6{
+	padding-right: 0;
+}
+#completion .row .col-md-4 .col-md-4{
+	padding-left: 0;
+}
+
+#completion .row .col-md-6 .col-md-4{
+	padding-left: 0;
+}
+#completion .row .col-md-6 h4{
+	padding-left: 15px;
+	float: left;
+}
+#completion .row .col-md-6 .col-md-2{
+	padding-left: 0;
+	float: left;
+}
+#short-answer{
+	margin-bottom: 30px;
+}
+#short-answer .row .col-md-6 .btn-group{
+	display: block;
+}
